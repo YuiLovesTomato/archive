@@ -1,0 +1,15 @@
+<strong>METAL RESISTANCE</strong> (2016)
+	<ol>
+		<li><a href="http://localhost:81/index.php/index/metal_resistance/?id=1">Road of Resistance</li>
+		<li><a href="http://localhost:81/index.php/index/metal_resistance/?id=2">KARATE</li>
+		<li><a href="http://localhost:81/index.php/index/metal_resistance/?id=3">あわだまフィーバー</li>
+		<li><a href="http://localhost:81/index.php/index/metal_resistance/?id=4">ヤバッ!</li>
+		<li><a href="http://localhost:81/index.php/index/metal_resistance/?id=5">Amore -蒼星-</li>
+		<li><a href="http://localhost:81/index.php/index/metal_resistance/?id=6">META! メタ太郎</li>
+		<li><a href="http://localhost:81/index.php/index/metal_resistance/?id=7">シンコペーション / From dusk til dawn</li>
+		<li><a href="http://localhost:81/index.php/index/metal_resistance/?id=8">GJ!</li>
+		<li><a href="http://localhost:81/index.php/index/metal_resistance/?id=9">Sis. Anger</li>
+		<li><a href="http://localhost:81/index.php/index/metal_resistance/?id=10">NO RAIN, NO RAINBOW</li>
+		<li><a href="http://localhost:81/index.php/index/metal_resistance/?id=11">Tales of the Destinies</li>
+		<li><a href="http://localhost:81/index.php/index/metal_resistance/?id=12">THE ONE</li>
+	</ol>

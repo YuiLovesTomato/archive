@@ -1,0 +1,5 @@
+<h2>DISCOGRAPHY</h2>
+	<ul>
+  <li><a class="a" href="http://localhost:81/index.php/index?id=7">BABYMETAL</a></li>
+	<li><a class="a" href="http://localhost:81/index.php/index?id=8">METAL RESISTANCE</a></li>
+	</ul>

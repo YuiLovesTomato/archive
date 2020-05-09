@@ -1,0 +1,1 @@
+PATH 설정 방법 : 시스템설정 고급 환경변수 PATH (address)\anaconda3

@@ -1,0 +1,11 @@
+<div id="search">
+  <input id="searchbox" type="text" value="검색안됨ㅋㅋ" />
+  <input type="button" value="Search" />
+  <br/>
+  <a class="a" id="harmful" href="http://localhost:81/write.php">WRITE SOMETHING HARMFUL</a>
+</div>
+<h2 id="table">NECK-TEA</h2>
+<ul>
+<li><a class="a" href="http://localhost:81/index.php/index?id=2">MEMBER PROFILE</a></li>
+<li><a class="a" href="http://localhost:81/index.php/index?id=3">DISCOGRAPHY</a></li>
+</ul>

@@ -1,0 +1,55 @@
+2017-07-15T10:53:58.514Z - normal: Load ~/.CocosCreator/settings.json
+2017-07-15T10:53:58.529Z - normal: checking language setting...
+2017-07-15T10:53:58.529Z - normal: Language: en
+2017-07-15T10:54:02.248Z - success: protocol editor-framework registered
+2017-07-15T10:54:02.248Z - success: protocol app registered
+2017-07-15T10:54:02.248Z - success: protocol theme registered
+2017-07-15T10:54:02.248Z - success: protocol profile registered
+2017-07-15T10:54:02.248Z - success: protocol packages registered
+2017-07-15T10:54:02.248Z - success: protocol unpack registerred
+2017-07-15T10:54:02.248Z - success: protocol disable-commonjs registerred
+2017-07-15T10:54:02.847Z - normal: connected!
+2017-07-15T10:54:02.850Z - normal: Check project D:\__PERSONAL\CODING\BABYMETAL_FAN_GAME\cocos\NewProject
+2017-07-15T10:54:02.858Z - normal: Initializing Cocos2d
+2017-07-15T10:54:05.636Z - normal: Initializing Asset Database
+2017-07-15T10:54:05.852Z - success: protocol uuid registerred
+2017-07-15T10:54:05.852Z - success: protocol db registerred
+2017-07-15T10:54:05.853Z - success: protocol thumbnail registerred
+2017-07-15T10:54:05.853Z - normal: Loading editor/builtin packages
+2017-07-15T10:54:05.959Z - success: anysdk loaded
+2017-07-15T10:54:06.549Z - success: assets loaded
+2017-07-15T10:54:06.564Z - success: builder loaded
+2017-07-15T10:54:06.572Z - success: hierarchy loaded
+2017-07-15T10:54:06.579Z - success: inspector loaded
+2017-07-15T10:54:06.582Z - success: keystore loaded
+2017-07-15T10:54:06.590Z - success: node-library loaded
+2017-07-15T10:54:06.594Z - success: package-asset loaded
+2017-07-15T10:54:06.600Z - success: preferences loaded
+2017-07-15T10:54:06.648Z - success: project-importer loaded
+2017-07-15T10:54:06.651Z - success: project-settings loaded
+2017-07-15T10:54:06.656Z - success: ui-kit loaded
+2017-07-15T10:54:06.669Z - success: ui-grid loaded
+2017-07-15T10:54:06.672Z - success: scene loaded
+2017-07-15T10:54:06.672Z - success: sprite-editor loaded
+2017-07-15T10:54:06.686Z - success: store loaded
+2017-07-15T10:54:06.702Z - success: timeline loaded
+2017-07-15T10:54:06.702Z - normal: Loading builtin packages
+2017-07-15T10:54:06.702Z - success: asset-db-debugger loaded
+2017-07-15T10:54:06.702Z - success: code-editor loaded
+2017-07-15T10:54:06.723Z - success: color-picker loaded
+2017-07-15T10:54:06.731Z - success: console loaded
+2017-07-15T10:54:06.735Z - success: package-manager loaded
+2017-07-15T10:54:06.749Z - success: sdkbox loaded
+2017-07-15T10:54:06.764Z - success: tester loaded
+2017-07-15T10:54:06.764Z - success: ui-kit-preview-extra loaded
+2017-07-15T10:54:06.764Z - success: ui-kit-preview loaded
+2017-07-15T10:54:06.764Z - success: ui-tree loaded
+2017-07-15T10:54:11.365Z - normal: Initializing project D:\__PERSONAL\CODING\BABYMETAL_FAN_GAME\cocos\NewProject
+2017-07-15T10:54:11.524Z - normal: Loading packages
+2017-07-15T10:54:11.533Z - normal: Watching packages
+2017-07-15T10:54:11.586Z - normal: Run Application
+2017-07-15T10:54:19.003Z - success: preview server running at http://localhost:7456
+2017-07-15T10:54:19.004Z - normal: Compiling scripts...
+2017-07-15T10:54:26.828Z - normal: Compiled project javascript file successfully
+2017-07-15T10:54:52.872Z - normal: 1.5.1
+2017-07-15T10:55:06.641Z - info: shutdown preview server

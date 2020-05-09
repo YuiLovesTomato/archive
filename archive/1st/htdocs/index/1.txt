@@ -1,0 +1,8 @@
+<p>
+안녕하세요. 웹 코딩 연습을 위해 만든 페이지입니다. 빨리 꺼지세요. 장난입니다 ㅎ;
+</p>
+<ul>
+	<li>저는 Width랑 Height 가 싫어요</li>
+	<li>변수, IF, WHILE, FUNCTION, ARRAY, Debug, Input, $_GET['i'], document.getElementById</li>
+	<li>야 이거 버튼 누르면 CSS가 오르락내리락한다 ㅋㅋㅋ</li>
+</ul>

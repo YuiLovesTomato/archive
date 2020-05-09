@@ -1,0 +1,68 @@
+header {
+  text-align:center;
+  border-bottom:solid grey 1px;
+  padding:25px;
+}
+nav {
+  width:235px;
+  height:600px;
+  float:left;
+  border-right:solid grey 1px;
+}
+.a {
+  text-decoration-style:solid;
+  text-decoration: none;
+  text-decoration-line: none;
+  color:#f07800;
+  font-family: 'Bubbler One', sans-serif;
+  font-size:25px
+}
+h2 {
+  font-family: 'Bubbler One', sans-serif;
+  font-size:40px;
+  margin-top: 20px;
+  margin-bottom:10px;
+}
+#article {
+  float:left;
+  padding:20px;
+  width:600px;
+}
+#control{
+  float:right;
+  padding:15px;
+}
+#target.black{
+  background-color:black;
+  color:white;
+}
+#target.white{
+  background-color:white;
+  color:black;
+}
+#search{
+  float:left;
+  padding-top:10px;
+  margin-bottom:10px;
+}
+#table{
+  padding-top:20px;
+}
+#imghead{
+  width:900px;
+  height:500px;
+}
+#imgsu{
+  width:450px;
+  height:900px;
+}
+#harmful{
+  padding-top:20px;
+}
+#searchbox{
+  width:130px;
+  margin-bottom: 10px;
+}
+#form{
+  padding:20px;
+}

@@ -1,0 +1,382 @@
+    1  ps
+    2  cl
+    3  clear
+    4  ls
+    5  ls -al
+    6  color
+    7  mcolor
+    8  clear
+    9  ls -al
+   10  clear
+   11  ls -
+   12  ls -l
+   13  cd ___temp
+   14  ls
+   15  ls -al
+   16  vim
+   17  clear
+   18  ls
+   19  cd ..
+   20  ls
+   21  cd __Coding
+   22  cd _Coding/
+   23  ls
+   24  ls -l
+   25  clear
+   26  ls -al
+   27  mkdir forfun
+   28  cd forfun
+   29  ls -al
+   30  clear
+   31  touch Ex1.java
+   32  vim Ex1.java 
+   33  javac Ex1
+   34  sudo apt install java
+   35  apt install default-jdk
+   36  ps
+   37  ps -S
+   38  ps -r 98
+   39  apt install default-jdk
+   40  bg
+   41  bgbgbgbgbgbgfggfgbgbgbgbgbgbgbgbg:bgbgbgbgbgbgbgbgbgbps
+   42  ps
+   43  ps -s
+   44  ps -S
+   45  hello
+   46  jobs
+   47  fg%1
+   48  bg%1
+   49  fg1
+   50  fg 1
+   51  fg 2
+   52  jobs
+   53  fg 1
+   54  jobs
+   55  bg 1
+   56  ddddddps
+   57  bg
+   58  ps
+   59  ps -S
+   60  jobs
+   61  ps
+   62  jobs
+   63  kikill 1
+   64  kill 1
+   65  kill9 1
+   66  kill 1
+   67  jobs
+   68  exit
+   69  ps
+   70  java
+   71  clear
+   72  ps -S
+   73  pwd
+   74  D:
+   75  ls
+   76  cd ..
+   77  cd /
+   78  ls
+   79  cd mnt/D
+   80  cd mnt
+   81  ls
+   82  cd d
+   83  ls
+   84  ls -l
+   85  cd _Coding/
+   86  cd forfun/
+   87  ls
+   88  clear
+   89  cat Ex1.java
+   90  javac Ex1
+   91  vim Ex1.java
+   92  javac Ex1.java
+   93  ls
+   94  java Ex1
+   95  lear
+   96  cl
+   97  ls
+   98  clear
+   99  javac Ex1
+  100  clear
+  101  javac Ex1.java
+  102  java Ex1
+  103  clear
+  104  ls
+  105  mkdir HelloWorldJava
+  106  mv Ex1.class HelloWorldJava/
+  107  mv Ex1.java HelloWorldJava/
+  108  ls
+  109  cd HelloWorldJava/
+  110  ls
+  111  cd ..
+  112  ls
+  113  clear
+  114  ls -al
+  115  apt install link-preview
+  116  sudo
+  117  clear
+  118  root
+  119  clear
+  120  sudo root
+  121  clear
+  122  sudo apt install link-preview
+  123  clear
+  124  sudo apt install firefox
+  125  bg 1
+  126  jobs
+  127  clear
+  128  jobs
+  129  ps -S
+  130  clear
+  131  sudo apt install git
+  132  git
+  133  clear
+  134  git --init
+  135  clear
+  136  ls
+  137  git init
+  138  ls
+  139  ls -al
+  140  git rep
+  141  git repo
+  142  clear
+  143  git status
+  144  clear
+  145  git commit
+  146  clear
+  147  ls
+  148  ls -al
+  149  exit
+  150  ls
+  151  pwd
+  152  clear
+  153  cd /
+  154  ls
+  155  cd mnt/d/_Coding/forfun
+  156  ls -al
+  157  cd Hello
+  158  cd HelloWorldJava/
+  159  ls -al
+  160  java Ex1
+  161  clear
+  162  cd ..
+  163  ls
+  164  ls -al
+  165  exi
+  166  exit
+  167  exit
+  168  firfox
+  169  firefox
+  170  apt install firefox
+  171  sudo apt install firefox
+  172  ls -al
+  173  clear
+  174  exit
+  175  history
+  176  clear
+  177  touch lyrics.txt
+  178  cat > lyrics.txt
+  179  cat lyrics.txt 
+  180  clear
+  181  vim lyrics.txt 
+  182  cat lyrics.txt 
+  183  kakaotalk
+  184  apt install kakotalk
+  185  clear
+  186  cat lyrics.txt 
+  187  vim lyrics.txt 
+  188  rename
+  189  clear
+  190  mv lyrics.txt WhereDeadAngelsLie.txt
+  191  ls
+  192  vim WhereDeadAngelsLie.txt 
+  193  vim Night'sBlood.txt
+  194  ls
+  195  vim NightsBlood.txt
+  196  ls -al
+  197  clear
+  198  ls- al
+  199  clear
+  200  ls -l
+  201  javac HelloWorldJava/
+  202  javac HelloWorldJava
+  203  clear
+  204  celar
+  205  clear
+  206  cat NightsBlood.txt 
+  207  w
+  208  :w
+  209  clear
+  210  a spell was cast and the sky turned red
+  211  exit
+  212  git
+  213  git init
+  214  git del
+  215  clear
+  216  ls
+  217  ls -al
+  218  rmdir .git -f
+  219  rmdir .git
+  220  rmdir -r .git
+  221  man rmdir
+  222  rmdir -p .git
+  223  man rmdir
+  224  rm -r .git
+  225  ls -al
+  226  clear
+  227  exit
+  228  vim settings.json
+  229  cd themes
+  230  ls
+  231  ls -al
+  232  cd ..
+  233  vim settings.json 
+  234  clear
+  235  exit
+  236  ls -al
+  237  ls
+  238  clear
+  239  exit
+  240  vim settings.json 
+  241  ls ./themes
+  242  vim settings.json
+  243  fg 1
+  244  jobs
+  245  exit
+  246  vim settings.json 
+  247  exit
+  248  ls ./themes
+  249  vim settings.json 
+  250  :wq
+  251  exit
+  252  ls ./themes
+  253  vim settings.json 
+  254  exit
+  255  vim settings.json 
+  256  exit
+  257  vim settings.json 
+  258  exit
+  259  vim settings.json 
+  260  exit
+  261  vimse
+  262  vim settings.json 
+  263  exit
+  264  ls
+  265  ls -al
+  266  ls .fonts
+  267  ls ./fonts
+  268  ls ./themes
+  269  clear
+  270  ls
+  271  exit
+  272  ls
+  273  ls -al
+  274  celar
+  275  ls /
+  276  cd /mnt/d/_Coding/forfun
+  277  ls
+  278  ls -al
+  279  vim Where
+  280  vim WhereDeadAngelsLie.txt 
+  281  :wq
+  282  clear
+  283  ls -al
+  284  vim WhereDeadAngelsLie.txt 
+  285  firefox
+  286  apt install firefox
+  287  apt-get update firefox
+  288  apt-get update
+  289  apt install firefox
+  290  bg 1
+  291  ddfdfdfdfdf'C:Users
+  292  bg 
+  293  jobs
+  294  fg 1
+  295  bg 1
+  296  apt install firefox
+  297  apt upgrade firefox
+  298  firefox
+  299  firefox 
+  300  firefox help
+  301  firefox setting
+  302  man firefox
+  303  firefox https://www.google.com
+  304  man firefox
+  305  clear
+  306  type -a firefox
+  307  firefox
+  308  firefox --preferences
+  309  clear
+  310  apt remove firefox
+  311  ls
+  312  exit
+  313  ps -S
+  314  clear
+  315  firefox
+  316  clear
+  317  ls
+  318  ps
+  319  ps -m
+  320  clear
+  321  ps
+  322  celar
+  323  clear
+  324  type vim
+  325  type -a vim
+  326  cd /usr/bin/vim
+  327  clear
+  328  ls
+  329  ls -al
+  330  type vim
+  331  cd /usr/bin/vm
+  332  cd /user/bin/vim
+  333  cd /usr/bin/vim
+  334  cd /usr/bin
+  335  clear
+  336  ls
+  337  ls -al
+  338  cat vim
+  339  vim vim,
+  340  vim vim
+  341  :q
+  342  vim vim
+  343  cat vim
+  344  vim vim
+  345  clear
+  346  ls -al
+  347  clear
+  348  ls
+  349  ls tail
+  350  clear
+  351  ls tail
+  352  clear
+  353  ls
+  354  vim shred
+  355  cd /
+  356  clear
+  357  ls
+  358  cd mnt/d
+  359  clear
+  360  ls
+  361  ls -al
+  362  ./'Hoax Eliminator.exe' 
+  363  clear
+  364  ls -al
+  365  set 777
+  366  clear
+  367  ls
+  368  ls -al
+  369  ls -al > a.txt
+  370  celar
+  371  clear
+  372  ps -S
+  373  vim
+  374  vi
+  375  vim
+  376  clear
+  377  histoyr
+  378  history
+  379  clear
+  380  cd ./_Coding/forfun
+  381  touch history.txt
+  382  history > history.txt

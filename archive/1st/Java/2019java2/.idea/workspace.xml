@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f628806c-0a86-400c-ab52-6d5aecd1cff5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayEvalPostfix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InfixMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InfixToPostfix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InfixToPostfixMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListEvalPostfix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PostExpMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UtilStack.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="2019java2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BankSimulation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="717">
+              <caret line="90" selection-start-line="90" selection-end-line="90" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/pk/RandomTest.java" />
+        <option value="$PROJECT_DIR$/src/prod1.java" />
+        <option value="$PROJECT_DIR$/src/sum1.java" />
+        <option value="$PROJECT_DIR$/src/sum2.java" />
+        <option value="$PROJECT_DIR$/src/sum3.java" />
+        <option value="$PROJECT_DIR$/src/FIborec.java" />
+        <option value="$PROJECT_DIR$/src/Fiborec.java" />
+        <option value="$PROJECT_DIR$/src/Fibiter.java" />
+        <option value="$PROJECT_DIR$/src/factrec.java" />
+        <option value="$PROJECT_DIR$/src/Factrec.java" />
+        <option value="$PROJECT_DIR$/src/Factiter.java" />
+        <option value="$PROJECT_DIR$/src/binsrch.java" />
+        <option value="$PROJECT_DIR$/src/lab4/Score.java" />
+        <option value="$PROJECT_DIR$/src/lab4/ArrayTestMain.java" />
+        <option value="$PROJECT_DIR$/src/lab4/ArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/lab4/ArrayTest1.java" />
+        <option value="$PROJECT_DIR$/src/lab4/ArrayTest2.java" />
+        <option value="$PROJECT_DIR$/src/ArraysTest.java" />
+        <option value="$PROJECT_DIR$/src/ArrayListExample.java" />
+        <option value="$PROJECT_DIR$/src/ArrayListTest.java" />
+        <option value="$PROJECT_DIR$/src/SparseMatrixMain.java" />
+        <option value="$PROJECT_DIR$/src/LinkedListBasic.java" />
+        <option value="$PROJECT_DIR$/src/CLinkedListMain.java" />
+        <option value="$PROJECT_DIR$/src/CLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/DLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/ArrayStack.java" />
+        <option value="$PROJECT_DIR$/src/lab6/LinkedListMain.java" />
+        <option value="$PROJECT_DIR$/src/PostExpMain.java" />
+        <option value="$PROJECT_DIR$/src/InfixToPostfix.java" />
+        <option value="$PROJECT_DIR$/src/MyInfixMain.java" />
+        <option value="$PROJECT_DIR$/src/infixPostfix/ArrayEvalPostfix.java" />
+        <option value="$PROJECT_DIR$/src/infixPostfix/MyInfixMain.java" />
+        <option value="$PROJECT_DIR$/src/infixPostfix/InfixToPostfixMain.java" />
+        <option value="$PROJECT_DIR$/src/infixPostfix/ListStack.java" />
+        <option value="$PROJECT_DIR$/src/infixPostfix/ListEvalPostfix.java" />
+        <option value="$PROJECT_DIR$/src/infixPostfix/InfixToPostfix.java" />
+        <option value="$PROJECT_DIR$/src/infixPostfix/InfixMain.java" />
+        <option value="$PROJECT_DIR$/src/infixPostfix/ArrayStack.java" />
+        <option value="$PROJECT_DIR$/src/InfixMain.java" />
+        <option value="$PROJECT_DIR$/src/MyQueueSim.java" />
+        <option value="$PROJECT_DIR$/src/Maze.java" />
+        <option value="$PROJECT_DIR$/src/MyMaze.java" />
+        <option value="$PROJECT_DIR$/src/MyStringCheck.java" />
+        <option value="$PROJECT_DIR$/src/MyGeneric.java" />
+        <option value="$PROJECT_DIR$/src/QueueGeneric.java" />
+        <option value="$PROJECT_DIR$/src/FibQueue.java" />
+        <option value="$PROJECT_DIR$/src/QueueUsingStack.java" />
+        <option value="$PROJECT_DIR$/src/QueueInterface.java" />
+        <option value="$PROJECT_DIR$/src/StackUsingQueue.java" />
+        <option value="$PROJECT_DIR$/src/SimulUsingDeque.java" />
+        <option value="$PROJECT_DIR$/src/BankSimulation.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="1070" />
+    <option name="height" value="1087" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="2019java2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2019java2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2019java2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2019java2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2019java2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2019java2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="BankSimulation.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574759861260" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="power.mode.ii" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\_Coding\Java\2019java2\src\lab2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.BankSimulation">
+    <configuration name="AverageDeque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AverageDeque" />
+      <module name="2019java2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankSimulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BankSimulation" />
+      <module name="2019java2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QueueInterface" />
+      <module name="2019java2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueUsingStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QueueUsingStack" />
+      <module name="2019java2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackUsingQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StackUsingQueue" />
+      <module name="2019java2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="pk.ProdTotal" />
+      <module name="2019java2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.QueueUsingStack" />
+      <item itemvalue="Application.StackUsingQueue" />
+      <item itemvalue="Application.QueueInterface" />
+      <item itemvalue="Application.AverageDeque" />
+      <item itemvalue="Application.BankSimulation" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BankSimulation" />
+        <item itemvalue="Application.AverageDeque" />
+        <item itemvalue="Application.StackUsingQueue" />
+        <item itemvalue="Application.QueueInterface" />
+        <item itemvalue="Application.QueueUsingStack" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f628806c-0a86-400c-ab52-6d5aecd1cff5" name="Default Changelist" comment="" />
+      <created>1567578646588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567578646588</updated>
+      <workItem from="1567578654588" duration="1668000" />
+      <workItem from="1568031466452" duration="3805000" />
+      <workItem from="1568079164224" duration="1700000" />
+      <workItem from="1568999145679" duration="60000" />
+      <workItem from="1568999231637" duration="8000" />
+      <workItem from="1569383710310" duration="5254000" />
+      <workItem from="1569829771015" duration="4230000" />
+      <workItem from="1569855369999" duration="36000" />
+      <workItem from="1570016598401" duration="8786000" />
+      <workItem from="1570434699805" duration="168000" />
+      <workItem from="1570434891500" duration="164000" />
+      <workItem from="1571803567412" duration="729000" />
+      <workItem from="1572447651469" duration="7250000" />
+      <workItem from="1572614936266" duration="53000" />
+      <workItem from="1573392289977" duration="7201000" />
+      <workItem from="1573562771704" duration="1200000" />
+      <workItem from="1574157411941" duration="3455000" />
+      <workItem from="1574171967090" duration="2319000" />
+      <workItem from="1574257148526" duration="599000" />
+      <workItem from="1574758582393" duration="1357000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="50042000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="1070" height="1087" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49893162" weight="0.18712871" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50106835" side_tool="true" weight="0.27795875" />
+      <window_info id="Learn" order="7" weight="0.32995737" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32592592" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37393162" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32905984" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49893162" weight="0.24188481" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50106835" side_tool="true" weight="0.27795875" />
+      <window_info id="Learn" order="7" weight="0.32995737" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32592592" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26455027" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32905984" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/lab4/Score.java" />
+    <entry file="file://$PROJECT_DIR$/src/lab4/ArrayTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/lab4/ArrayTest2.java" />
+    <entry file="file://$PROJECT_DIR$/src/lab4/ArrayTest1.java" />
+    <entry file="file://$PROJECT_DIR$/src/lab4/ArrayTestMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/ArraysTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/SparseMatrixMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/LinkedList.java" />
+    <entry file="file://$PROJECT_DIR$/src/ArrayListExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/LinkedListBasic.java" />
+    <entry file="file://$PROJECT_DIR$/src/ArrayListTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/CLinkedList.java" />
+    <entry file="file://$PROJECT_DIR$/src/CLinkedListMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/LinkedListUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/StackMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/LinkStack.java" />
+    <entry file="file://$PROJECT_DIR$/src/lab6/LinkedListMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/ListEvalPostfix.java" />
+    <entry file="file://$PROJECT_DIR$/src/Node.java" />
+    <entry file="file://$PROJECT_DIR$/src/InfixMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/ArrayEvalPostfix.java" />
+    <entry file="file://$PROJECT_DIR$/src/UtilStack.java" />
+    <entry file="file://$PROJECT_DIR$/src/PostExpMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/MyInfixMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/InfixToPostfixMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/ListStack.java" />
+    <entry file="file://$USER_HOME$/Downloads/QueueSim.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyQueueSim.java" />
+    <entry file="file://$PROJECT_DIR$/src/ArrayStack.java" />
+    <entry file="file://$PROJECT_DIR$/src/InfixToPostfix.java" />
+    <entry file="file://$PROJECT_DIR$/src/Maze.java" />
+    <entry file="file://$PROJECT_DIR$/src/MyMaze.java" />
+    <entry file="file://$USER_HOME$/Downloads/maze.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyStringCheck.java" />
+    <entry file="file://$PROJECT_DIR$/src/MyGeneric.java" />
+    <entry file="file://$PROJECT_DIR$/src/QueueGenericMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/QueueGeneric.java" />
+    <entry file="file://$PROJECT_DIR$/src/BankSimulationMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/QueueUsingStack.java" />
+    <entry file="file://$PROJECT_DIR$/src/FibQueue.java" />
+    <entry file="file://$PROJECT_DIR$/src/StackUsingQueue.java" />
+    <entry file="file://$PROJECT_DIR$/src/QueueInterface.java" />
+    <entry file="file://$PROJECT_DIR$/src/DLinkedListMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DequeObj.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DequeStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AverageDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="68" column="8" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BNZ.5dd3f92314b31a5/StackUsingQueue.java" />
+    <entry file="file://$PROJECT_DIR$/src/DLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimulUsingDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
+          <folding>
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BankSimulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="717">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>2019java2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

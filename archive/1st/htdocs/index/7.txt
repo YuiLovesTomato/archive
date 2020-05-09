@@ -1,0 +1,24 @@
+<strong>BABYMETAL</strong> (2014)
+	<ol>
+		<li><a href="http://localhost:81/index.php/index/babymetal/?id=1">BABYMETAL DEATH</li></a>
+		<li><a href="http://localhost:81/index.php/index/babymetal/?id=2">メギツネ</li></a>
+		<li><a href="http://localhost:81/index.php/index/babymetal/?id=3">ギミチョコ！！</li></a>
+		<li><a href="http://localhost:81/index.php/index/babymetal/?id=4">いいね!</li></a>
+		<li><a href="http://localhost:81/index.php/index/babymetal/?id=5">- 紅月 -アカツキ- </li></a>
+		<li><a href="http://localhost:81/index.php/index/babymetal/?id=6">ド・キ・ド・キ☆モーニング</li></a>
+		<li><a href="http://localhost:81/index.php/index/babymetal/?id=7">おねだり大作戦</li></a>
+		<li><a href="http://localhost:81/index.php/index/babymetal/?id=8">4の歌</li></a>
+		<li><a href="http://localhost:81/index.php/index/babymetal/?id=9">ウ・キ・ウ・キ★ミッドナイト</li></a>
+		<li><a href="http://localhost:81/index.php/index/babymetal/?id=10">Catch me if you can</li></a>
+		<li><a href="http://localhost:81/index.php/index/babymetal/?id=11">悪夢の輪舞曲</li></a>
+		<li><a href="http://localhost:81/index.php/index/babymetal/?id=12">ヘドバンギャー！!</li></a>
+		<li><a href="http://localhost:81/index.php/index/babymetal/?id=13">イジメ、ダメ、ゼッタイ</li></a>
+	</ol>
+</article>
+
+
+
+
+update `topic` set title='METAL RESISTANCE(2016)' where id=8;
+update `topic` set author='Nyom' where id=8;
+update `topic` set created='now()' where id=8;

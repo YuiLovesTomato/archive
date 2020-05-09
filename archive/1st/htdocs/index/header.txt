@@ -1,0 +1,6 @@
+<a href="http://localhost:81/index.php">
+<img id="imghead" src="../img/header.jpg">
+</a>
+<?php
+echo file_get_contents("button.html");
+?>
